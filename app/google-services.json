@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "235598893613",
+    "project_id": "care-tracker-6fdf9",
+    "storage_bucket": "care-tracker-6fdf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235598893613:android:8988d6beb9c9d513b3dea4",
+        "android_client_info": {
+          "package_name": "com.example.caretracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235598893613-1p8aredjq3v05jkoskdic4quqcjdd8r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.caretracker",
+            "certificate_hash": "7a07108f63cb3f48f95cad915885bde429e82d9f"
+          }
+        },
+        {
+          "client_id": "235598893613-8tbhlk57dijtbqlk0revq3ucgc5uj9kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_CQLzWDNotIdM4aJRgEWTfDMeMU1lm_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235598893613-8tbhlk57dijtbqlk0revq3ucgc5uj9kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

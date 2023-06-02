@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Care Tracker</string>
+    <string name="logout">Logout</string>
+    <string name="home_goal_sentence">We envision a world where children can grow up safe from exploitation, sexual abuse, or risk of going missing.</string>
+    <string name="home_sentence">\'Every child deserves a safe childhood!\'</string>
+    <string name="register">Register</string>
+    <string name="submit">Submit</string>
+    <string name="guardian_s_email">Guardian\'s email</string>
+    <string name="child_s_name">Child\'s name</string>
+    <string name="guardian_s_phone">Guardian\'s phone</string>
+    <string name="about">About</string>
+    <string name="statistics">Statistics</string>
+    <string name="stat_heading1">Number of missing children in the USA and Canada:</string>
+    <string name="stat1">According to the FBI Missing Children Reports, there are currently 87,438 active cases in the USA, as of December of 2019. The missing children are juveniles under the age of 18, which account for 30,618 (35%) of cases. In Canada, there is an estimate of 45,288 missing children every year.</string>
+    <string name="stat_question">How many children are missing?</string>
+    <string name="stat_heading2">Number of missing children in Europe :</string>
+    <string name="stat2">According to the European Comission and Missing Children Europe, more 250,000 children go missing in Europe every year (in Germany and the UK there are over 100,000 missing children reports every year). In 2019, as the latest report, there have been 55,284 calls related to missing children, which were answered by the hotlines across Europe.</string>
+    <string name="stat_heading3">Number of missing children in Asia :</string>
+    <string name="stat3">According to the International Centre For Missing and Exploited Children, there are approximately between 20,000 and 200,000 missing children in China and Southeast Asia alone. It is believed that hundreds of thousands of children in Asia are being traded for labor or trafficking every single day.</string>
+    <string name="about_text">Care Tracker is a passive children tracking system. Here the child will wear the tracking band like a bracelet which will be provided with NFC tag and QR code.This band will be made up of polyester and dyneema material.</string>
+    <string name="about_question">What is Care Tracker?</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
